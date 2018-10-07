@@ -1,6 +1,6 @@
 # wordpress-template-teleantioquia-v1
 Se crea un plugin y un tema como ejemplo para primer aprendizaje con wordpress.
 
-default user: admin
+<strong>default user:</strong> admin
 <br>
-default password: )YA4HaSQeOYCah55RD
+<strong>default password:</strong> )YA4HaSQeOYCah55RD
